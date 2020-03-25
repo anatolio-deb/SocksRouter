@@ -1,0 +1,6 @@
+[Match]
+Name=tun2socks
+
+[Network]
+Address=192.168.2.2/24
+Gateway=192.168.2.1
