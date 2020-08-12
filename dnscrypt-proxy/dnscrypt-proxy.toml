@@ -3,7 +3,6 @@ listen_addresses = []
 server_names = ['adguard-dns']
 force_tcp = true
 
-
 [query_log]
   file = '/var/log/dnscrypt-proxy/query.log'
 
